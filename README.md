@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tomiwa Fadairo
 
-<!--
-**Kodazn/Kodazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Accounting and Finance student at the University of Nottingham trent.  
+My long-term goal is to work in FinTech, where I can combine financial knowledge with technical skills.  
+I’m also learning C++ and Python as a hobby to build games and explore software development.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Tic Tac Toe in C++](https://github.com/Kodazn/TicTacToe) — my first ever programming project, built from scratch.
+- More projects coming soon.
+
+## Currently Learning
+
+- C++ (game development fundamentals)
+- Python (data + finance applications)
+- Git and GitHub for version control
+
+## About Me
+
+- Interested in wealth management, FinTech, and digital products
+- Enjoy basketball, boxing, graphic design, and self-learning
+- I don’t copy-paste code — I build and learn it myself
